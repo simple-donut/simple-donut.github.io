@@ -4,7 +4,7 @@ This is the main repo for this organization.
 
 This idea is based on this CodePen: 
 
-* http://codepen.io/TheJaredWilcurt/pen/KaVZZJby
+* http://codepen.io/TheJaredWilcurt/pen/KaVZZJ
 
 That CodePen was based on this CodePen, by Alexandr Marinenko:
 
