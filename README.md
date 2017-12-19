@@ -21,7 +21,7 @@ That CodePen was based on this CodePen, by Alexandr Marinenko:
 * [jQuery](https://github.com/simple-donut/simple-donut-jquery)
 * [React](https://github.com/simple-donut/simple-donut-react)
 * [Riot.js](https://github.com/simple-donut/simple-donut-riot)
-* [Vanilla ES5](https://github.com/simple-donut/simple-donut-js)
+* [Vanilla ES5](https://github.com/simple-donut/simple-donut-vanilla)
 * [Vanilla ES6](https://github.com/simple-donut/simple-donut-es6)
 * [vue.js](https://github.com/simple-donut/simple-donut-vue)
 
