@@ -19,12 +19,12 @@ That CodePen was based on this CodePen, by Alexandr Marinenko:
 * [Backbone.js](https://github.com/simple-donut/simple-donut-backbone)
 * [Ember.js](https://github.com/simple-donut/simple-donut-ember)
 * [jQuery](https://github.com/simple-donut/simple-donut-jquery) :star:
-* [React](https://github.com/simple-donut/simple-donut-react)
-* [React Native](https://github.com/simple-donut/simple-donut-react-native)
+* [React](https://github.com/simple-donut/simple-donut-react) :hourglass:
+* [React Native](https://github.com/simple-donut/simple-donut-react-native) :hourglass:
 * [Riot.js](https://github.com/simple-donut/simple-donut-riot)
-* [Svelte](https://github.com/simple-donut/simple-donut-svelte)
+* [Svelte](https://github.com/simple-donut/simple-donut-svelte) :hourglass:
 * [Vanilla ES5](https://github.com/simple-donut/simple-donut-vanilla)
-* [Vanilla ES6](https://github.com/simple-donut/simple-donut-es6)
+* [Vanilla ES6](https://github.com/simple-donut/simple-donut-es6) :hourglass:
 * [Vue.js](https://github.com/simple-donut/simple-donut-vue) :star:
 
 * * *
