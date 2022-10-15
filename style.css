@@ -2,6 +2,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  margin: 60px;
 }
 
 table {
@@ -10,6 +11,7 @@ table {
   border-style: dotted;
   border-width: 2px;
   border-collapse: collapse;
+  margin-bottom: 50px;
 }
 
 th {
@@ -22,4 +24,10 @@ th {
 td {
   border-style: dotted;
   border-width: 2px;
+}
+
+p {
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
 }
